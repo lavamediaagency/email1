@@ -443,29 +443,12 @@
     </style>
 </head>
 <body style='color:#444; font-family:"Helvetica Neue", Helvetica, "Neue Haas Grotesk Text Pro", Arial, sans-serif; font-size:14px; line-height:1; margin:0'>
-    <table class="wrapper-table" cellpadding="5" cellspacing="0" width="100%" border="0" style="border-collapse:collapse; font-size:14px; line-height:1; background-color:#eee; background-repeat:no-repeat" bgcolor="#eeeeee">
+    <table class="wrapper-table" cellpadding="5" cellspacing="0" width="100%" border="0" style="border-collapse:collapse; font-size:14px; line-height:1; background-color:#fff; background-repeat:no-repeat" bgcolor="#ffffff">
         <tr style="border-color:transparent">
             <td align="center" style="border-collapse:collapse; border-color:transparent">
                 <table cellpadding="0" cellspacing="0" width="600px" id="bodyTable" border="0" bgcolor="#ffffff" style="border-collapse:collapse; font-size:14px; line-height:1">
                     <tr style="border-color:transparent">
                         <td border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; border-color:transparent">
-                            <table cellpadding="0" cellspacing="0" style="border-collapse:collapse; font-size:14px; line-height:1; width:100%" border="0" width="100%">
-                                <tr style="border-color:transparent">
-                                    <th width="600" style="border-color:transparent; font-weight:400; text-align:left; vertical-align:top" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
-                                        <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse; font-size:14px; line-height:1; background-color:#eee; border-top-right-radius:0; border-top-left-radius:0; border-bottom-left-radius:0; border-bottom-right-radius:0" bgcolor="#eeeeee">
-                                            <tr style="border-color:transparent">
-                                                <td cellpadding="0" cellspacing="0" style="border-collapse:collapse; border-color:transparent">
-                                                    <table class="separator" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate; font-size:14px; line-height:1; padding-left:0; padding-right:0; padding-top:0; padding-bottom:0; height:20px" height="20">
-                                                        <tr style="border-color:transparent">
-                                                            <td height="20" style="border-collapse:collapse; border-color:transparent"></td>
-                                                        </tr>
-                                                    </table>
-                                                </td>
-                                            </tr>
-                                        </table>
-                                    </th>
-                                </tr>
-                            </table>
                             <table cellpadding="0" cellspacing="0" style="border-collapse:collapse; font-size:14px; line-height:1; width:100%" border="0" width="100%">
                                 <tr style="border-color:transparent">
                                     <th width="200" style="border-color:transparent; font-weight:400; text-align:left; vertical-align:top" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
@@ -756,55 +739,6 @@
                                                             <td class="content-cell" width="396" height="16" style="border-collapse:collapse; border-color:transparent; vertical-align:top; padding-left:2px; padding-right:2px; padding-top:2px; padding-bottom:2px" valign="top">
                                                                 <div style="font-size:14px; line-height:1; clear:both"></div>
                                                             </td>
-                                                        </tr>
-                                                    </table>
-                                                </td>
-                                            </tr>
-                                        </table>
-                                    </th>
-                                </tr>
-                            </table>
-                            <table cellpadding="0" cellspacing="0" style="border-collapse:collapse; font-size:14px; line-height:1; width:100%" border="0" width="100%">
-                                <tr style="border-color:transparent">
-                                    <th width="600" style="border-color:transparent; font-weight:400; text-align:left; vertical-align:top" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
-                                        <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse; font-size:14px; line-height:1; background-color:#eee; border-top-right-radius:0; border-top-left-radius:0; border-bottom-left-radius:0; border-bottom-right-radius:0" bgcolor="#eeeeee">
-                                            <tr style="border-color:transparent">
-                                                <td cellpadding="0" cellspacing="0" style="border-collapse:collapse; border-color:transparent">
-                                                    <table width="100%" cellpadding="0" cellspacing="0" id="w" style="border-collapse:separate; font-size:14px; line-height:1; text-color:black; font-weight:normal; margin:0; overflow:hidden">
-                                                        <tr class="content-row" style='border-color:transparent; color:#444; font-family:"Helvetica Neue", Helvetica, "Neue Haas Grotesk Text Pro", Arial, sans-serif'>
-                                                            <td class="content-cell padding-bottom-0" width="540" style="border-collapse:collapse; border-color:transparent; vertical-align:top; padding-left:30px; padding-right:30px; padding-top:30px; padding-bottom:0" valign="top">
-                                                                <div style="font-size:14px; line-height:1; clear:both"></div>
-                                                            </td>
-                                                        </tr>
-                                                    </table>
-                                                </td>
-                                            </tr>
-                                        </table>
-                                        <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse; font-size:14px; line-height:1; background-color:#eee; border-top-right-radius:0; border-top-left-radius:0; border-bottom-left-radius:0; border-bottom-right-radius:0" bgcolor="#eeeeee">
-                                            <tr style="border-color:transparent">
-                                                <td cellpadding="0" cellspacing="0" style="border-collapse:collapse; border-color:transparent">
-                                                    <table width="100%" cellpadding="0" cellspacing="0" id="w" style="border-collapse:separate; font-size:14px; line-height:1; text-color:black; font-weight:normal; margin:0; overflow:hidden">
-                                                        <tr class="content-row" style='border-color:transparent; color:#444; font-family:"Helvetica Neue", Helvetica, "Neue Haas Grotesk Text Pro", Arial, sans-serif'>
-                                                            <td class="content-cell padding-top-0" width="540" style="border-collapse:collapse; border-color:transparent; vertical-align:top; padding-left:30px; padding-right:30px; padding-top:0; padding-bottom:30px" valign="top">
-                                                                <div style="font-size:14px; line-height:1; clear:both"></div>
-                                                            </td>
-                                                        </tr>
-                                                    </table>
-                                                </td>
-                                            </tr>
-                                        </table>
-                                    </th>
-                                </tr>
-                            </table>
-                            <table cellpadding="0" cellspacing="0" style="border-collapse:collapse; font-size:14px; line-height:1; width:100%" border="0" width="100%">
-                                <tr style="border-color:transparent">
-                                    <th width="600" style="border-color:transparent; font-weight:400; text-align:left; vertical-align:top" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
-                                        <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse; font-size:14px; line-height:1; background-color:#eee; border-top-right-radius:0; border-top-left-radius:0; border-bottom-left-radius:0; border-bottom-right-radius:0" bgcolor="#eeeeee">
-                                            <tr style="border-color:transparent">
-                                                <td cellpadding="0" cellspacing="0" style="border-collapse:collapse; border-color:transparent">
-                                                    <table class="separator" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate; font-size:14px; line-height:1; padding-left:0; padding-right:0; padding-top:0; padding-bottom:0; height:35px" height="35">
-                                                        <tr style="border-color:transparent">
-                                                            <td height="35" style="border-collapse:collapse; border-color:transparent"></td>
                                                         </tr>
                                                     </table>
                                                 </td>
